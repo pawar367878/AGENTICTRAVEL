@@ -1,0 +1,6 @@
+{
+  "name": "Agentic Travel AI - Collaborative Planning & Booking",
+  "description": "Agentic AI-based collaborative travel planning, intelligent multi-agent recommendations, booking platform with test payments and QR confirmation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
